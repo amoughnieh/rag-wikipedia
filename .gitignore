@@ -4,3 +4,5 @@ data
 __pycache__
 venv
 .env
+.dockerignore
+Dockerfile
